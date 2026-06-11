@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 400" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+  <rect width="1240" height="400" fill="#f5f1e8"/>
+
+  <!-- heading -->
+  <text x="64" y="52" font-size="23" font-weight="800" fill="#1f1b16">From a blank page to an operating PMO</text>
+  <text x="65" y="78" font-size="14.5" fill="#7a6f60">Six stages of rising maturity, each with ready-to-use templates</text>
+
+  <!-- maturity axis -->
+  <g stroke="#c2b69f" stroke-width="1.5" fill="none">
+    <path d="M44,262 L44,116" stroke-linecap="round"/>
+    <path d="M44,116 l-5,8 M44,116 l5,8" stroke-linejoin="round"/>
+  </g>
+  <text x="34" y="200" font-size="11.5" letter-spacing="2" fill="#9a8e7c" transform="rotate(-90 34 200)" text-anchor="middle">MATURITY</text>
+
+  <!-- rising area + line -->
+  <path d="M100,250 L308,224 L516,198 L724,172 L932,146 L1140,120 L1140,266 L100,266 Z" fill="#c8842a" fill-opacity="0.08"/>
+  <polyline points="100,250 308,224 516,198 724,172 932,146 1140,120" fill="none" stroke="#c8842a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- stems -->
+  <g stroke="#d8cdb8" stroke-width="1.5">
+    <line x1="100" y1="269" x2="100" y2="292"/>
+    <line x1="308" y1="243" x2="308" y2="292"/>
+    <line x1="516" y1="217" x2="516" y2="292"/>
+    <line x1="724" y1="191" x2="724" y2="292"/>
+    <line x1="932" y1="165" x2="932" y2="292"/>
+    <line x1="1140" y1="139" x2="1140" y2="292"/>
+  </g>
+
+  <!-- nodes -->
+  <g font-size="14.5" font-weight="700" text-anchor="middle">
+    <circle cx="100"  cy="250" r="19" fill="#e6b877"/><text x="100"  y="255" fill="#2a2018">00</text>
+    <circle cx="308"  cy="224" r="19" fill="#dca85a"/><text x="308"  y="229" fill="#2a2018">01</text>
+    <circle cx="516"  cy="198" r="19" fill="#d2963f"/><text x="516"  y="203" fill="#fbf7ef">02</text>
+    <circle cx="724"  cy="172" r="19" fill="#c8842a"/><text x="724"  y="177" fill="#fbf7ef">03</text>
+    <circle cx="932"  cy="146" r="19" fill="#bd7420"/><text x="932"  y="151" fill="#fbf7ef">04</text>
+    <circle cx="1140" cy="120" r="19" fill="#a8631a"/><text x="1140" y="125" fill="#fbf7ef">05</text>
+  </g>
+
+  <!-- labels -->
+  <g text-anchor="middle">
+    <g><text x="100"  y="316" font-size="16.5" font-weight="700" fill="#1f1b16">Start Here</text><text x="100"  y="337" font-size="12.5" fill="#7a6f60">Understand the plan</text></g>
+    <g><text x="308"  y="316" font-size="16.5" font-weight="700" fill="#1f1b16">Assess</text><text x="308"  y="337" font-size="12.5" fill="#7a6f60">Baseline P3M3 maturity</text></g>
+    <g><text x="516"  y="316" font-size="16.5" font-weight="700" fill="#1f1b16">Design</text><text x="516"  y="337" font-size="12.5" fill="#7a6f60">Charter &amp; operating model</text></g>
+    <g><text x="724"  y="316" font-size="16.5" font-weight="700" fill="#1f1b16">Build</text><text x="724"  y="337" font-size="12.5" fill="#7a6f60">Governance &amp; methods</text></g>
+    <g><text x="932"  y="316" font-size="16.5" font-weight="700" fill="#1f1b16">Operate</text><text x="932"  y="337" font-size="12.5" fill="#7a6f60">Deliver projects</text></g>
+    <g><text x="1140" y="316" font-size="16.5" font-weight="700" fill="#1f1b16">Report</text><text x="1140" y="337" font-size="12.5" fill="#7a6f60">Measure &amp; improve</text></g>
+  </g>
+
+  <text x="1176" y="384" font-size="12" text-anchor="end" fill="#9a8e7c">Grounded in P3M3 + PMI good practice</text>
+</svg>
