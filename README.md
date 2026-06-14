@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/hero.svg" alt="ITPMO-in-a-Box: an open-source toolkit to build a Project Management Office from scratch, assessment to operation" width="100%">
+<img src="docs/assets/hero.png" alt="ITPMO-in-a-Box: an open-source toolkit to build a Project Management Office from scratch, assessment to operation" width="100%">
 
 <br>
 
@@ -16,7 +16,7 @@ Standing up a PMO usually means months spent rebuilding the same charters, gover
 Every file is sector-neutral, English, and free to reuse under [CC BY 4.0](LICENSE). Open a template, replace the `[Your Organization]` placeholders, and you are moving.
 
 <div align="center">
-<img src="docs/assets/journey.svg" alt="The journey rises through six stages: 00 Start Here, 01 Assess, 02 Design, 03 Build, 04 Operate, 05 Report" width="100%">
+<img src="docs/assets/journey.png" alt="The journey rises through six stages: 00 Start Here, 01 Assess, 02 Design, 03 Build, 04 Operate, 05 Report" width="100%">
 </div>
 
 ## The six stages
