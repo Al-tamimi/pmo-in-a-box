@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in improving **ITPMO-in-a-Box**! This is a community resource
+Thanks for your interest in improving **PMO-in-a-Box**! This is a community resource
 for anyone building or maturing a Project Management Office. Contributions of all
 sizes are welcome: from fixing a typo to adding a whole new template.
 

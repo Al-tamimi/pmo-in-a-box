@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/hero.png" alt="ITPMO-in-a-Box: an open-source toolkit to build a Project Management Office from scratch, assessment to operation" width="100%">
+<img src="docs/assets/hero.png" alt="PMO-in-a-Box: an open-source toolkit to build a Project Management Office from scratch, assessment to operation" width="100%">
 
 <br>
 
@@ -11,7 +11,7 @@
 
 </div>
 
-Standing up a PMO usually means months spent rebuilding the same charters, governance plans, and reporting packs from a blank page. **ITPMO-in-a-Box** hands you the entire journey as editable, brand-neutral templates, organized so you adapt instead of start over.
+Standing up a PMO usually means months spent rebuilding the same charters, governance plans, and reporting packs from a blank page. **PMO-in-a-Box** hands you the entire journey as editable, brand-neutral templates, organized so you adapt instead of start over.
 
 Every file is sector-neutral, English, and free to reuse under [CC BY 4.0](LICENSE). Open a template, replace the `[Your Organization]` placeholders, and you are moving.
 
@@ -32,7 +32,7 @@ Every file is sector-neutral, English, and free to reuse under [CC BY 4.0](LICEN
 
 ## Who it is for
 
-PMO leads, IT and transformation managers, and consultants who need to establish or mature a PMO without starting from zero. It also works as a checklist for reviewing a PMO you already run.
+PMO leads, transformation managers, and consultants who need to establish or mature a PMO without starting from zero. It also works as a checklist for reviewing a PMO you already run.
 
 ## Start here
 
@@ -60,7 +60,7 @@ Every template uses the same neutral placeholders, so a single Find and Replace 
 ## What is inside
 
 ```
-itpmo-in-a-box/
+pmo-in-a-box/
 ├── 00-start-here/   Guides and establishment deck, read this first
 ├── 01-assess/       P3M3 maturity self-assessment, gap and impact analysis
 ├── 02-design/       Charter, operating model, service catalogue, benefits

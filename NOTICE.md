@@ -1,7 +1,7 @@
 # Notice: Provenance & Attribution
 
 This repository is a **curated, de-branded toolkit** for establishing an IT Project
-Management Office (ITPMO). In the interest of transparency, here is how its contents
+Management Office (PMO). In the interest of transparency, here is how its contents
 originated and how they are licensed.
 
 ## 1. Original works (© the author, licensed CC BY 4.0)

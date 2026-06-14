@@ -3,7 +3,7 @@ SPDX-License-Identifier: CC-BY-4.0
 
 Copyright (c) 2026 Al-Tamimi
 
-This work, the "ITPMO-in-a-Box" toolkit, including its structure, documentation,
+This work, the "PMO-in-a-Box" toolkit, including its structure, documentation,
 diagrams, and the original templates and guides it contains, is licensed under the
 Creative Commons Attribution 4.0 International License.
 
@@ -25,8 +25,8 @@ Human-readable summary: https://creativecommons.org/licenses/by/4.0/
 ----------------------------------------------------------------------------------
 Suggested attribution:
 
-  "ITPMO-in-a-Box" by Al-Tamimi, licensed under CC BY 4.0.
-  Source: https://github.com/Al-tamimi/itpmo-in-a-box
+  "PMO-in-a-Box" by Al-Tamimi, licensed under CC BY 4.0.
+  Source: https://github.com/Al-tamimi/pmo-in-a-box
 
 ----------------------------------------------------------------------------------
 Note on third-party-derived components: some operational templates follow common,

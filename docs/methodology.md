@@ -1,6 +1,6 @@
 # Methodology
 
-ITPMO-in-a-Box is grounded in two established bodies of knowledge: the **P3M3 maturity
+PMO-in-a-Box is grounded in two established bodies of knowledge: the **P3M3 maturity
 model** and **PMI good practice**. This page gives a short, practical overview and links
 to the official sources. The frameworks themselves are **referenced for guidance only and
 are not redistributed here**: please obtain the official manuals from their owners.
